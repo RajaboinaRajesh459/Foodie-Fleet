@@ -1,0 +1,25 @@
+.payment-success {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .success-image {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .payment-success h2 {
+    font-size: 2.5rem;
+    margin-top: 20px;
+  }
+  
+  .payment-success p {
+    font-size: 1.2rem;
+    margin-top: 10px;
+  }
+  
+  .payment-success .btn {
+    margin: 10px;
+    padding: 10px 20px;
+  }
+  
